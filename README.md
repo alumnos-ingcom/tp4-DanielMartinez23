@@ -46,6 +46,7 @@ class IngresoIncorrecto(Exception):
 ``` python
 def ingreso_entero(mensaje):
     """
+
     Esta funcion muestra un mensaje y agrega la # para indicar el ingreso
     de un número entero.
     """
@@ -133,7 +134,7 @@ def ordenar_menor_a_mayor(uno, dos, tres):
 Escribir una función que indique con `True` si un numero indicado es Primo.
 
 ``` python
-def es_primo(numero):
+          
 ```
 
 ### 10. Factores Primos
